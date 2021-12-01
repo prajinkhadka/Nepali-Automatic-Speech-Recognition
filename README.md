@@ -9,5 +9,5 @@ Steps :
 3. Launch mimicUI [https://github.com/MycroftAI/mimic-recording-studio](Mimic Recording Studio)
 4. Start Recording 
 
-Run ```chmod u+x script.sh``` to make the script executable and ```./script.sh```
+Run ```chmod u+x script.sh``` to make the script executable and ```./script.sh```, then go to ```localhost:8888/```
 
